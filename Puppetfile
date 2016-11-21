@@ -23,3 +23,5 @@ mod 'puppetlabs-strings',
 #:tag => '0.1.1'
 # or specific tag
 #:commit => '346832a5f88a0ec43d' # or specific commit
+# still hacking on this
+mod 'my-test', :local => true
